@@ -1,0 +1,149 @@
+2020-10-17T17:13:43.413Z - normal: Load ~/.CocosCreator/settings.json
+2020-10-17T17:13:43.447Z - normal: Initializing Asset Database
+2020-10-17T17:13:43.450Z - normal: checking language setting...
+2020-10-17T17:13:43.450Z - normal: Language: zh
+2020-10-17T17:13:43.815Z - success: preview server running at http://localhost:7456
+2020-10-17T17:13:43.845Z - success: protocol editor-framework registered
+2020-10-17T17:13:43.845Z - success: protocol app registered
+2020-10-17T17:13:43.846Z - success: protocol theme registered
+2020-10-17T17:13:43.846Z - success: protocol packages registered
+2020-10-17T17:13:43.846Z - success: protocol uuid registerred
+2020-10-17T17:13:43.846Z - success: protocol db registerred
+2020-10-17T17:13:43.846Z - success: protocol thumbnail registerred
+2020-10-17T17:13:43.846Z - success: protocol unpack registerred
+2020-10-17T17:13:43.846Z - success: protocol disable-commonjs registerred
+2020-10-17T17:13:44.209Z - normal: connected!
+2020-10-17T17:13:44.211Z - normal: Check project /Users/zlin/Documents/space/learning/linClient
+2020-10-17T17:13:44.212Z - normal: Initializing project /Users/zlin/Documents/space/learning/linClient
+2020-10-17T17:13:44.256Z - success: adapters loaded
+2020-10-17T17:13:44.270Z - success: asset-db-debugger loaded
+2020-10-17T17:13:44.334Z - success: fb-audience-network loaded
+2020-10-17T17:13:44.360Z - success: fb-live-stream loaded
+2020-10-17T17:13:44.363Z - success: google-play-instant loaded
+2020-10-17T17:13:44.369Z - success: huawei-runtime loaded
+2020-10-17T17:13:44.370Z - success: jkw-adapter loaded
+2020-10-17T17:13:44.372Z - success: jsb-adapter loaded
+2020-10-17T17:13:44.376Z - success: oppo-runtime loaded
+2020-10-17T17:13:44.388Z - success: package-manager loaded
+2020-10-17T17:13:44.389Z - success: qtt-adapter loaded
+2020-10-17T17:13:44.390Z - success: runtime-dev-tools loaded
+2020-10-17T17:13:44.408Z - success: sdkbox loaded
+2020-10-17T17:13:44.429Z - success: ui-kit-preview-extra loaded
+2020-10-17T17:13:44.441Z - success: ui-kit-preview loaded
+2020-10-17T17:13:44.444Z - success: vivo-runtime loaded
+2020-10-17T17:13:44.445Z - success: alipay-minigame loaded
+2020-10-17T17:13:44.497Z - success: assets loaded
+2020-10-17T17:13:44.499Z - success: baidugame-opendata loaded
+2020-10-17T17:13:44.501Z - success: baidugame loaded
+2020-10-17T17:13:44.511Z - success: builder loaded
+2020-10-17T17:13:44.631Z - success: cocos-services loaded
+2020-10-17T17:13:44.642Z - success: console loaded
+2020-10-17T17:13:44.651Z - success: fb-instant-games loaded
+2020-10-17T17:13:44.661Z - success: game-window loaded
+2020-10-17T17:13:44.662Z - success: google-instant-games loaded
+2020-10-17T17:13:44.675Z - success: hierarchy loaded
+2020-10-17T17:13:44.686Z - success: inspector loaded
+2020-10-17T17:13:44.975Z - success: cpk-publish loaded
+2020-10-17T17:13:44.980Z - success: keystore loaded
+2020-10-17T17:13:44.996Z - success: node-library loaded
+2020-10-17T17:13:45.003Z - success: open-recent-items loaded
+2020-10-17T17:13:45.005Z - success: package-asset loaded
+2020-10-17T17:13:45.006Z - success: preferences loaded
+2020-10-17T17:13:45.017Z - success: project-exporter loaded
+2020-10-17T17:13:45.027Z - success: project-importer loaded
+2020-10-17T17:13:45.039Z - success: project-settings loaded
+2020-10-17T17:13:45.049Z - success: qtt-runtime loaded
+2020-10-17T17:13:45.060Z - success: scene loaded
+2020-10-17T17:13:45.061Z - success: simulator-debugger loaded
+2020-10-17T17:13:45.062Z - success: sprite-editor loaded
+2020-10-17T17:13:45.074Z - success: store loaded
+2020-10-17T17:13:45.086Z - success: timeline loaded
+2020-10-17T17:13:45.088Z - success: wechatgame-opendata loaded
+2020-10-17T17:13:45.090Z - success: wechatgame loaded
+2020-10-17T17:13:45.094Z - success: xiaomi-runtime loaded
+2020-10-17T17:13:45.708Z - normal: Initializing Cocos2d
+2020-10-17T17:13:46.093Z - normal: Initializing engine extends
+2020-10-17T17:13:46.491Z - normal: Loading packages
+2020-10-17T17:13:46.499Z - normal: Watching packages
+2020-10-17T17:13:46.571Z - normal: Run Application
+2020-10-17T17:13:47.907Z - info: Cocos Service load base data!
+2020-10-17T21:01:02.593Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/zlin/Documents/space/learning/linClient/build",
+  "debug": false,
+  "dest": "/Users/zlin/Documents/space/learning/linClient/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "55c4eff7-0f42-4f5a-ad7c-b63604748b92"
+  ],
+  "sourceMaps": false,
+  "startScene": "55c4eff7-0f42-4f5a-ad7c-b63604748b92",
+  "template": "link",
+  "title": "linClient",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "e9785078-503b-41",
+  "zipCompressJs": true,
+  "project": "/Users/zlin/Documents/space/learning/linClient",
+  "projectName": "linClient",
+  "debugBuildWorker": false
+}
+2020-10-17T21:01:02.595Z - normal: Building /Users/zlin/Documents/space/learning/linClient
+2020-10-17T21:01:02.595Z - normal: Destination /Users/zlin/Documents/space/learning/linClient/build/web-desktop
+2020-10-17T21:01:02.677Z - normal: Delete /Users/zlin/Documents/space/learning/linClient/build/web-desktop/subpackages/**/*,/Users/zlin/Documents/space/learning/linClient/build/web-desktop/**/*
+2020-10-17T21:01:04.240Z - normal: Start building assets
+2020-10-17T21:01:04.241Z - normal: Start spawn build-worker
+2020-10-17T21:01:05.425Z - normal: Finish spawn build-worker
+2020-10-17T21:01:05.425Z - normal: Start init build-worker
+2020-10-17T21:01:07.791Z - normal: Finish init build-worker
+2020-10-17T21:01:07.791Z - normal: Start build-assets in worker
+2020-10-17T21:01:08.099Z - normal: Finish build-assets in worker
+2020-10-17T21:01:08.104Z - normal: Finish building assets
+2020-10-17T21:01:08.113Z - normal: Start building plugin scripts
+2020-10-17T21:01:08.169Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-10-17T21:01:08.180Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2020-10-17T21:01:08.205Z - normal: Built to "/Users/zlin/Documents/space/learning/linClient/build/web-desktop" successfully
+2020-10-17T21:21:20.476Z - info: shutdown preview server
